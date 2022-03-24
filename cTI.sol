@@ -1,4 +1,5 @@
 pragma solidity ^ 0.6.3;
+//interface for ico
 
 interface Token{
 
